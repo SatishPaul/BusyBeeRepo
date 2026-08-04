@@ -1,0 +1,7 @@
+@{
+    projectName = "busybee"
+    repoName = "BusyBeeRepo"
+    repoOwner = "your-github-username"
+    vercelTeam = $null
+    deploymentRegions = @("sfo1")
+}
