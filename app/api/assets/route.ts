@@ -104,17 +104,22 @@ export async function GET(request: NextRequest) {
     }
 
     // Transform response
-    const assets = data?.map((asset) => ({
-      ...asset,
-      author: asset.users
-        ? {
-            id: asset.author_id,
-            username: asset.users.username,
-            displayName: asset.users.display_name,
-            avatarUrl: asset.users.avatar_url,
-          }
-        : null,
-    })) ?? [];
+    const assets = data?.map((asset) => {
+      // Supabase relational selects can return either an object or a single-item array.
+      const authorRow = Array.isArray(asset.users) ? asset.users[0] : asset.users;
+
+      return {
+        ...asset,
+        author: authorRow
+          ? {
+              id: asset.author_id,
+              username: authorRow.username,
+              displayName: authorRow.display_name,
+              avatarUrl: authorRow.avatar_url,
+            }
+          : null,
+      };
+    }) ?? [];
 
     return NextResponse.json({
       data: assets,

@@ -1,16 +1,34 @@
 import { createClient } from '@supabase/supabase-js';
 
-if (!process.env.NEXT_PUBLIC_SUPABASE_URL) {
-  throw new Error('NEXT_PUBLIC_SUPABASE_URL is not set');
+function isValidHttpUrl(value?: string): value is string {
+  if (!value) return false;
+
+  try {
+    const parsed = new URL(value);
+    return parsed.protocol === 'http:' || parsed.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
+const rawSupabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+const hasValidSupabaseUrl = isValidHttpUrl(rawSupabaseUrl);
+const supabaseUrl: string = hasValidSupabaseUrl
+  ? rawSupabaseUrl
+  : 'https://example.supabase.co';
+const supabaseAnonKey: string = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'public-anon-key-placeholder';
+
+if (!hasValidSupabaseUrl) {
+  console.warn('NEXT_PUBLIC_SUPABASE_URL is missing or invalid. Using a placeholder URL during build.');
 }
 
 if (!process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY) {
-  throw new Error('NEXT_PUBLIC_SUPABASE_ANON_KEY is not set');
+  console.warn('NEXT_PUBLIC_SUPABASE_ANON_KEY is not set. Using a placeholder key during build.');
 }
 
 export const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL,
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY,
+  supabaseUrl,
+  supabaseAnonKey,
   {
     auth: {
       persistSession: true,
@@ -25,8 +43,8 @@ export const supabase = createClient(
  * Only use in server actions and API routes
  */
 export const supabaseAdmin = () => {
-  if (!process.env.NEXT_PUBLIC_SUPABASE_URL) {
-    throw new Error('NEXT_PUBLIC_SUPABASE_URL is not set');
+  if (!isValidHttpUrl(process.env.NEXT_PUBLIC_SUPABASE_URL)) {
+    throw new Error('NEXT_PUBLIC_SUPABASE_URL is missing or invalid');
   }
 
   if (!process.env.SUPABASE_SERVICE_ROLE_KEY) {

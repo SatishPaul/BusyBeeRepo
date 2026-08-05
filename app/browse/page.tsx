@@ -1,11 +1,9 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { useSearchParams } from 'next/navigation'
-import SearchBar from '@/components/SearchBar'
-import AssetGrid from '@/components/AssetGrid'
-import CategoryPills from '@/components/CategoryPills'
-import { ChevronDown, Filter, X } from 'lucide-react'
+import { SearchBar } from '@/components/SearchBar'
+import { AssetGrid } from '@/components/AssetGrid'
+import { Filter } from '@/components/icons'
 
 interface Asset {
   id: string
@@ -57,20 +55,28 @@ const SORT_OPTIONS = [
 ]
 
 export default function BrowsePage() {
-  const searchParams = useSearchParams()
   const [assets, setAssets] = useState<Asset[]>([])
   const [isLoading, setIsLoading] = useState(true)
   const [isEmpty, setIsEmpty] = useState(false)
   const [error, setError] = useState<string | null>(null)
 
   // Filter and search state
-  const [searchQuery, setSearchQuery] = useState(searchParams.get('q') || '')
-  const [selectedType, setSelectedType] = useState(searchParams.get('type') || 'All')
-  const [selectedIndustry, setSelectedIndustry] = useState(searchParams.get('industry') || '')
-  const [selectedSort, setSelectedSort] = useState(searchParams.get('sort') || 'created')
-  const [currentPage, setCurrentPage] = useState(parseInt(searchParams.get('page') || '1'))
+  const [searchQuery, setSearchQuery] = useState('')
+  const [selectedType, setSelectedType] = useState('All')
+  const [selectedIndustry, setSelectedIndustry] = useState('')
+  const [selectedSort, setSelectedSort] = useState('created')
+  const [currentPage, setCurrentPage] = useState(1)
   const [totalPages, setTotalPages] = useState(1)
   const [showFilters, setShowFilters] = useState(false)
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search)
+    setSearchQuery(params.get('q') || '')
+    setSelectedType(params.get('type') || 'All')
+    setSelectedIndustry(params.get('industry') || '')
+    setSelectedSort(params.get('sort') || 'created')
+    setCurrentPage(parseInt(params.get('page') || '1'))
+  }, [])
 
   // Fetch assets with filters
   useEffect(() => {

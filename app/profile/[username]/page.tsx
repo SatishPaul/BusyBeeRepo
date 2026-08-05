@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { Star, Download, Users, Bookmark, Mail, Github, Globe } from 'lucide-react'
+import { Star, Download, Users, Bookmark, Mail, Github, Globe } from '@/components/icons'
 import { useAuth } from '@/contexts/AuthContext'
 
 interface UserProfile {

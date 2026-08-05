@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import Link from 'next/link'
 import { useAuth } from '@/contexts/AuthContext'
-import { Mail, Lock, User, AlertCircle, Github } from 'lucide-react'
+import { Mail, Lock, AlertCircle, Github, User } from '@/components/icons'
 
 export default function SignupPage() {
   const router = useRouter()

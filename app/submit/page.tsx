@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import Link from 'next/link'
 import { useAuth } from '@/contexts/AuthContext'
-import { Upload, FileText, CheckCircle, AlertCircle } from 'lucide-react'
+import { Upload, FileText, CheckCircle, AlertCircle } from '@/components/icons'
 
 const ASSET_TYPES = ['Prompt', 'Skill', 'Workflow', 'Agent', 'Plugin', 'Template']
 

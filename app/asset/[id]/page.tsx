@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { Star, Download, Share2, Bookmark, User, Calendar, Code } from 'lucide-react'
+import { Star, Download, Share2, Bookmark, Calendar, Code } from '@/components/icons'
 import { useAuth } from '@/contexts/AuthContext'
 
 interface Asset {
