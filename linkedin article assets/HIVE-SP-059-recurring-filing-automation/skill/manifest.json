@@ -1,0 +1,9 @@
+{
+  "name": "recurring-filing-automation",
+  "displayName": "Expense Reports: The Tax on Every Billable Hour.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: an agent that prepares and submits recurring compliance and expense filings with approvals, so routine filings stop taxing every billable hour. Built on Power Automate, Dataverse, and Purview.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

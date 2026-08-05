@@ -24,6 +24,10 @@ Reusable, governed assets that ship with each "Built in the Hive" LinkedIn artic
 | Durable Engagement Memory | HIVE-SP-053 | [HIVE-SP-053-durable-engagement-memory](./HIVE-SP-053-durable-engagement-memory) |
 | Always-On Control Monitor | HIVE-SP-054 | [HIVE-SP-054-control-monitor](./HIVE-SP-054-control-monitor) |
 | Long-Form Content to Research Notes | HIVE-SP-055 | [HIVE-SP-055-content-to-research-notes](./HIVE-SP-055-content-to-research-notes) |
+| Data Optimization Finder | HIVE-SP-056 | [HIVE-SP-056-data-optimization-finder](./HIVE-SP-056-data-optimization-finder) |
+| Governed Batch Deliverable Generator | HIVE-SP-057 | [HIVE-SP-057-batch-deliverable-generator](./HIVE-SP-057-batch-deliverable-generator) |
+| Multimodal Capture to Record | HIVE-SP-058 | [HIVE-SP-058-multimodal-capture-to-record](./HIVE-SP-058-multimodal-capture-to-record) |
+| Recurring Filing Automation | HIVE-SP-059 | [HIVE-SP-059-recurring-filing-automation](./HIVE-SP-059-recurring-filing-automation) |
 
 ## What is in each folder
 

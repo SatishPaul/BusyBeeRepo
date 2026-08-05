@@ -1,0 +1,17 @@
+id: recurring-filing-automation
+title: "Expense Reports: The Tax on Every Billable Hour."
+line: firm-ops
+article: v57
+hive: HIVE-SP-059
+version: 1.0.0
+verified: 2026-08-09
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - flow
+  - prompt
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

@@ -1,0 +1,9 @@
+{
+  "name": "multimodal-capture-to-record",
+  "displayName": "Snap the Whiteboard. Get the Workpaper.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: photograph a document, whiteboard, or inventory and get a structured, governed record back. Built on Copilot, Foundry, and Dataverse.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

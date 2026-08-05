@@ -1,0 +1,9 @@
+{
+  "name": "batch-deliverable-generator",
+  "displayName": "One Deliverable, a Hundred Variations, Zero Extra Hours.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: governed batch generation of client-ready deliverables, one template into a hundred governed variants with zero extra hours. Built on Foundry, Copilot, and Purview.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

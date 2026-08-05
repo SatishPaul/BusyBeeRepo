@@ -1,0 +1,17 @@
+id: multimodal-capture-to-record
+title: "Snap the Whiteboard. Get the Workpaper."
+line: audit
+article: v56
+hive: HIVE-SP-058
+version: 1.0.0
+verified: 2026-08-09
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

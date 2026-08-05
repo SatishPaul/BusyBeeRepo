@@ -1,0 +1,9 @@
+{
+  "name": "data-optimization-finder",
+  "displayName": "Your Client's Biggest Savings Hide in Data They Already Have.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: an agent that analyzes a client's own operational and spend data to surface savings and optimization opportunities they already own. Built on Fabric, Foundry, and Power BI.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

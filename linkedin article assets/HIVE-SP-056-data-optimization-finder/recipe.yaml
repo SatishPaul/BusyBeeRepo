@@ -1,0 +1,17 @@
+id: data-optimization-finder
+title: "Your Client's Biggest Savings Hide in Data They Already Have."
+line: advisory
+article: v54
+hive: HIVE-SP-056
+version: 1.0.0
+verified: 2026-08-08
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - power-platform
+  - skill
+cost_tier: medium
+license: Apache-2.0

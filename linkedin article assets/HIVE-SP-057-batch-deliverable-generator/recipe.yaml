@@ -1,0 +1,17 @@
+id: batch-deliverable-generator
+title: "One Deliverable, a Hundred Variations, Zero Extra Hours."
+line: consulting
+article: v55
+hive: HIVE-SP-057
+version: 1.0.0
+verified: 2026-08-08
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - skill
+  - prompt
+  - power-platform
+cost_tier: high
+license: Apache-2.0
