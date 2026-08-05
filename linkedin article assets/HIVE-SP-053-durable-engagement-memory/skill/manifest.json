@@ -1,0 +1,9 @@
+{
+  "name": "durable-engagement-memory",
+  "displayName": "Your Six-Month Engagement Keeps Forgetting Its Own Decisions.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: a durable memory layer that holds decisions and context across a six-month engagement, so the work stops forgetting its own decisions. Built on Dataverse, Azure AI Search, and Foundry.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

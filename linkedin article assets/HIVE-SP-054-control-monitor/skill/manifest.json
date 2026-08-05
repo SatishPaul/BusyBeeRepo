@@ -1,0 +1,9 @@
+{
+  "name": "control-monitor",
+  "displayName": "The Compliance Breach in the Quarterly Review Started in Week Two.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: an always-on monitoring agent-skill that flags control exceptions and anomalies as they happen, not at quarter-end. Built on Power Automate, Purview, Sentinel, and Fabric.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

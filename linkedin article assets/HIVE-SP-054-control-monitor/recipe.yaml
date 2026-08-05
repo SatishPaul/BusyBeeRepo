@@ -1,0 +1,17 @@
+id: control-monitor
+title: "The Compliance Breach in the Quarterly Review Started in Week Two."
+line: audit
+article: v52
+hive: HIVE-SP-054
+version: 1.0.0
+verified: 2026-08-07
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - skill
+  - power-platform
+  - prompt
+cost_tier: medium
+license: Apache-2.0

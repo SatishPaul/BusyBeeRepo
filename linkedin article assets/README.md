@@ -21,6 +21,9 @@ Reusable, governed assets that ship with each "Built in the Hive" LinkedIn artic
 | Voice-Logged Timesheet Engine | HIVE-SP-050 | [HIVE-SP-050-voice-timesheet](./HIVE-SP-050-voice-timesheet) |
 | Governed Agent Crew | HIVE-SP-051 | [HIVE-SP-051-agent-crew](./HIVE-SP-051-agent-crew) |
 | Institutional Knowledge Base | HIVE-SP-052 | [HIVE-SP-052-onboarding-knowledge-base](./HIVE-SP-052-onboarding-knowledge-base) |
+| Durable Engagement Memory | HIVE-SP-053 | [HIVE-SP-053-durable-engagement-memory](./HIVE-SP-053-durable-engagement-memory) |
+| Always-On Control Monitor | HIVE-SP-054 | [HIVE-SP-054-control-monitor](./HIVE-SP-054-control-monitor) |
+| Long-Form Content to Research Notes | HIVE-SP-055 | [HIVE-SP-055-content-to-research-notes](./HIVE-SP-055-content-to-research-notes) |
 
 ## What is in each folder
 

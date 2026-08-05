@@ -1,0 +1,17 @@
+id: durable-engagement-memory
+title: "Your Six-Month Engagement Keeps Forgetting Its Own Decisions."
+line: firm-ops
+article: v51
+hive: HIVE-SP-053
+version: 1.0.0
+verified: 2026-08-07
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - skill
+  - power-platform
+  - prompt
+cost_tier: medium
+license: Apache-2.0

@@ -1,0 +1,17 @@
+id: content-to-research-notes
+title: "Your Team Watches 10 Hours of Earnings Calls. The Insight Fits on One Page."
+line: advisory
+article: v53
+hive: HIVE-SP-055
+version: 1.0.0
+verified: 2026-08-08
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: low
+license: Apache-2.0

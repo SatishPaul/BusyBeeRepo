@@ -1,0 +1,9 @@
+{
+  "name": "content-to-research-notes",
+  "displayName": "Your Team Watches 10 Hours of Earnings Calls. The Insight Fits on One Page.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: turn earnings calls, webinars, and regulator briefings into structured research notes, so ten hours of listening becomes one page. Built on Foundry, Azure AI Search, and Power BI.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}
