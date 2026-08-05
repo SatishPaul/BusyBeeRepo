@@ -1,0 +1,17 @@
+id: invoice-duplicate-auditor
+title: "The Duplicate Charge Hiding in 400 Vendor Invoices."
+line: audit
+article: v46
+hive: HIVE-SP-048
+version: 1.0.0
+verified: 2026-08-05
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - skill
+  - power-platform
+  - prompt
+cost_tier: medium
+license: Apache-2.0

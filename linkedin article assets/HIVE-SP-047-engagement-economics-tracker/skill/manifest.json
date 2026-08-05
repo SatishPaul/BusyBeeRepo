@@ -1,0 +1,9 @@
+{
+  "name": "engagement-economics-tracker",
+  "displayName": "You Audit Everyone's Books but Your Own Engagement Economics.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: an agent-maintained engagement P&L and budget-vs-actual tracker, so the firm audits its own economics as well as its clients'. Built on Dataverse, Fabric, and Power BI.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

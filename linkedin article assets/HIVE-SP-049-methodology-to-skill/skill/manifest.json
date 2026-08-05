@@ -1,0 +1,9 @@
+{
+  "name": "methodology-to-skill",
+  "displayName": "Your Best Methodology Lives in One Partner's Head. Make It a Skill.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: turn the firm methodology living in one partner's head into a reusable, testable skill new staff can run. Built on Copilot Studio, Foundry, and Dataverse.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

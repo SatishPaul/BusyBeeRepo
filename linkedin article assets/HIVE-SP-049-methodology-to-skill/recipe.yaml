@@ -1,0 +1,17 @@
+id: methodology-to-skill
+title: "Your Best Methodology Lives in One Partner's Head. Make It a Skill."
+line: it-consulting
+article: v47
+hive: HIVE-SP-049
+version: 1.0.0
+verified: 2026-08-06
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - skill
+  - prompt
+  - power-platform
+cost_tier: low
+license: Apache-2.0

@@ -1,0 +1,16 @@
+id: engagement-economics-tracker
+title: "You Audit Everyone's Books but Your Own Engagement Economics."
+line: firm-ops
+article: v45
+hive: HIVE-SP-047
+version: 1.0.0
+verified: 2026-08-05
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - power-platform
+  - prompt
+cost_tier: medium
+license: Apache-2.0

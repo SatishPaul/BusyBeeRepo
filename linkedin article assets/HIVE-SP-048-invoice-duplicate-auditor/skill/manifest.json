@@ -1,0 +1,9 @@
+{
+  "name": "invoice-duplicate-auditor",
+  "displayName": "The Duplicate Charge Hiding in 400 Vendor Invoices.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: an agent that reads AP invoices and emails, maintains a ledger, and flags duplicate charges and price creep. Built on Power Automate, Dataverse, and Fabric.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

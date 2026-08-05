@@ -15,6 +15,9 @@ Reusable, governed assets that ship with each "Built in the Hive" LinkedIn artic
 | Governed Agent Handoff | HIVE-SP-044 | [HIVE-SP-044-governed-agent-handoff](./HIVE-SP-044-governed-agent-handoff) |
 | Proposal & Quote Comparator | HIVE-SP-045 | [HIVE-SP-045-proposal-quote-comparator](./HIVE-SP-045-proposal-quote-comparator) |
 | Visual Proposal Generator | HIVE-SP-046 | [HIVE-SP-046-visual-proposal-generator](./HIVE-SP-046-visual-proposal-generator) |
+| Engagement Economics Tracker | HIVE-SP-047 | [HIVE-SP-047-engagement-economics-tracker](./HIVE-SP-047-engagement-economics-tracker) |
+| Invoice Duplicate & Price-Creep Auditor | HIVE-SP-048 | [HIVE-SP-048-invoice-duplicate-auditor](./HIVE-SP-048-invoice-duplicate-auditor) |
+| Methodology-to-Skill Factory | HIVE-SP-049 | [HIVE-SP-049-methodology-to-skill](./HIVE-SP-049-methodology-to-skill) |
 
 ## What is in each folder
 
