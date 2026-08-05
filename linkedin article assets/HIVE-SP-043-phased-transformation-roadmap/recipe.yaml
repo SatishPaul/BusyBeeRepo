@@ -1,0 +1,17 @@
+id: phased-transformation-roadmap
+title: "Clients Do Not Buy the Report. They Buy the Plan to Get There."
+line: consulting
+article: v41
+hive: HIVE-SP-043
+version: 1.0.0
+verified: 2026-08-04
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - agent
+  - power-platform
+cost_tier: high
+license: Apache-2.0

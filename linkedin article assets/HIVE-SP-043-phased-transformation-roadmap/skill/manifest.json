@@ -1,0 +1,9 @@
+{
+  "name": "phased-transformation-roadmap",
+  "displayName": "Clients Do Not Buy the Report. They Buy the Plan to Get There.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: an agent that generates a phased transformation roadmap covering design, phased builds, budget, milestones, and maintenance. Built on Copilot Studio, Foundry, and Project Operations.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}
