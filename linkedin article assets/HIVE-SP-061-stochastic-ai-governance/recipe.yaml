@@ -1,0 +1,17 @@
+id: stochastic-ai-governance
+title: "Your AI Won't Give the Same Answer Twice. Ship It Anyway."
+line: advisory
+article: v59
+hive: HIVE-SP-061
+version: 1.0.0
+verified: 2026-08-05
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

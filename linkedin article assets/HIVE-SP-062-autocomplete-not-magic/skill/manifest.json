@@ -1,0 +1,9 @@
+{
+  "name": "autocomplete-not-magic",
+  "displayName": "Your AI Isn't Thinking. It's Autocomplete With a PhD.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: a generative model is powerful autocomplete that predicts the next word from patterns and context, so quality is engineered in the context around it, not wished into the model. Shows professional-services teams how to engineer context, grounding, tools, and guardrails to turn prediction into dependable automation. Built on Copilot Studio, Azure AI Search, Foundry, Power Automate, and Purview. An AI-literacy playbook.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

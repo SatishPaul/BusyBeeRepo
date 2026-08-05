@@ -8,6 +8,9 @@ Reusable, governed assets that ship with each "Built in the Hive" LinkedIn artic
 |---|---|---|
 | Regulatory Morning Brief | HIVE-SP-040 | [HIVE-SP-040-regulatory-morning-brief](./HIVE-SP-040-regulatory-morning-brief) |
 | R&D Credit Documentation Engine | HIVE-SP-060 | [HIVE-SP-060-rd-credit-ai-engine](./HIVE-SP-060-rd-credit-ai-engine) |
+| Stochastic AI Governance Rail | HIVE-SP-061 | [HIVE-SP-061-stochastic-ai-governance](./HIVE-SP-061-stochastic-ai-governance) |
+| Context Engineering Platform (Autocomplete) | HIVE-SP-062 | [HIVE-SP-062-autocomplete-not-magic](./HIVE-SP-062-autocomplete-not-magic) |
+| AI Shared Responsibility Guardrails | HIVE-SP-063 | [HIVE-SP-063-ai-shared-responsibility](./HIVE-SP-063-ai-shared-responsibility) |
 
 ## What is in each folder
 

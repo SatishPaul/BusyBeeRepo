@@ -1,0 +1,9 @@
+{
+  "name": "stochastic-ai-governance",
+  "displayName": "Your AI Won't Give the Same Answer Twice. Ship It Anyway.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: Gen AI is stochastic, so the same input gives a similar but never identical output. This shows professional-services teams how to govern that randomness, with grounding, low temperature, evals, and human gates, so AI output becomes reproducible and defensible. Built on Copilot Studio, Azure AI Search, Foundry, Dataverse, and Purview. An AI-literacy playbook, not a model.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

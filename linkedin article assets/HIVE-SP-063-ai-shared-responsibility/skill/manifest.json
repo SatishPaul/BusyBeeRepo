@@ -1,0 +1,9 @@
+{
+  "name": "ai-shared-responsibility",
+  "displayName": "The Model Is Their Job. The Risk Is Yours.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: the AI shared responsibility model shows which duties the provider performs and which stay with the customer across IaaS, PaaS, and SaaS. This shows professional-services teams how to map the split, own the duties that never transfer (identity, data governance, usage policy, accountability), and add the guardrails that make a stochastic model safer. Built on Microsoft Entra, Purview, Foundry, and Defender. An AI-literacy playbook.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}
