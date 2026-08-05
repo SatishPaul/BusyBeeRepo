@@ -1,0 +1,9 @@
+{
+  "name": "voice-timesheet",
+  "displayName": "Timesheets Are Where Billable Hours Go to Die.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: voice-logged daily activity becomes structured, billable-ready time and matter entries. Built on Copilot, Power Automate, and Dataverse.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

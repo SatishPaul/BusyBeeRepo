@@ -18,6 +18,9 @@ Reusable, governed assets that ship with each "Built in the Hive" LinkedIn artic
 | Engagement Economics Tracker | HIVE-SP-047 | [HIVE-SP-047-engagement-economics-tracker](./HIVE-SP-047-engagement-economics-tracker) |
 | Invoice Duplicate & Price-Creep Auditor | HIVE-SP-048 | [HIVE-SP-048-invoice-duplicate-auditor](./HIVE-SP-048-invoice-duplicate-auditor) |
 | Methodology-to-Skill Factory | HIVE-SP-049 | [HIVE-SP-049-methodology-to-skill](./HIVE-SP-049-methodology-to-skill) |
+| Voice-Logged Timesheet Engine | HIVE-SP-050 | [HIVE-SP-050-voice-timesheet](./HIVE-SP-050-voice-timesheet) |
+| Governed Agent Crew | HIVE-SP-051 | [HIVE-SP-051-agent-crew](./HIVE-SP-051-agent-crew) |
+| Institutional Knowledge Base | HIVE-SP-052 | [HIVE-SP-052-onboarding-knowledge-base](./HIVE-SP-052-onboarding-knowledge-base) |
 
 ## What is in each folder
 

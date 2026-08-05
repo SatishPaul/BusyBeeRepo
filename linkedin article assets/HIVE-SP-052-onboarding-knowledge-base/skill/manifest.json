@@ -1,0 +1,9 @@
+{
+  "name": "onboarding-knowledge-base",
+  "displayName": "Every New Hire Relearns What the Firm Already Knows.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: turn engagement history and reviews into a governed knowledge base that ramps new hires fast, so nobody relearns what the firm already knows. Built on Copilot, Azure AI Search, and Dataverse.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

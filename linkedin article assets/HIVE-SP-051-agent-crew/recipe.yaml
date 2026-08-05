@@ -1,0 +1,17 @@
+id: agent-crew
+title: "You Do Not Need One Genius Agent. You Need a Crew That Knows Its Lane."
+line: it-consulting
+article: v49
+hive: HIVE-SP-051
+version: 1.0.0
+verified: 2026-08-06
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - skill
+  - agent
+  - power-platform
+cost_tier: high
+license: Apache-2.0

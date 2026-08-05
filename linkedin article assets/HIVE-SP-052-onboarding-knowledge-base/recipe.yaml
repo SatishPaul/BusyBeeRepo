@@ -1,0 +1,17 @@
+id: onboarding-knowledge-base
+title: "Every New Hire Relearns What the Firm Already Knows."
+line: consulting
+article: v50
+hive: HIVE-SP-052
+version: 1.0.0
+verified: 2026-08-07
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - agent
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

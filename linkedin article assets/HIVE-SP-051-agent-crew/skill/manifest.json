@@ -1,0 +1,9 @@
+{
+  "name": "agent-crew",
+  "displayName": "You Do Not Need One Genius Agent. You Need a Crew That Knows Its Lane.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: a crew of role-specialized agents runs a delivery engagement, each governed to its lane, instead of one overloaded generalist. Built on Foundry, Copilot Studio, Entra, and Purview.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}
