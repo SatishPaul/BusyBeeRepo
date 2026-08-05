@@ -1,0 +1,21 @@
+id: regulatory-morning-brief
+title: "Regulatory Morning Brief"
+line: tax
+article: v38
+hive: HIVE-SP-040
+version: 1.0.0
+verified: 2026-08-04
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: medium
+cost_drivers:
+  - scheduled overnight runs across multiple sources
+  - per-client relevance scoring
+  - Power BI coverage dashboard deliverable
+license: Apache-2.0

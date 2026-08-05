@@ -1,0 +1,9 @@
+{
+  "name": "rd-credit-ai-engine",
+  "displayName": "You're Building AI. You're Also Building an R&D Credit You Never Claim.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: use AI and the firm's existing data to discover qualifying AI and development activity, apply the four-part test, assemble evidence, and map qualified costs into a defensible, sustainable R&D tax credit position. Built on Fabric, Foundry, Dataverse, Purview, and Power BI. Inspired by a Forvis Mazars CPE session; a technology playbook, not tax advice.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

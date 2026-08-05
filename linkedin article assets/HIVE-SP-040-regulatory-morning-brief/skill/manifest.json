@@ -1,0 +1,17 @@
+{
+  "name": "regulatory-morning-brief",
+  "displayName": "Regulatory Morning Brief",
+  "version": "1.0.0",
+  "description": "Plans and produces a ranked, cited brief of regulatory changes relevant to the firm's clients. Self-invokes on phrases like 'regulatory brief', 'watch for rulings', 'scan guidance for my clients'. Plans and drafts only; never files, sends, or edits client records.",
+  "triggers": [
+    "regulatory brief",
+    "regulatory morning brief",
+    "watch for rulings",
+    "scan guidance",
+    "what changed for my clients",
+    "regulatory watch"
+  ],
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}
