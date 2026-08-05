@@ -1,0 +1,17 @@
+id: proposal-quote-comparator
+title: "You Advise on Vendors You Never Actually Compared."
+line: advisory
+article: v43
+hive: HIVE-SP-045
+version: 1.0.0
+verified: 2026-08-05
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

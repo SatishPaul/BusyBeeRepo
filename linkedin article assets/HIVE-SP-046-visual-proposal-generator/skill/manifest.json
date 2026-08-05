@@ -1,0 +1,9 @@
+{
+  "name": "visual-proposal-generator",
+  "displayName": "Your Proposal Is 40 Pages. The Decision Was Made on One Slide.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: an agent that turns a 40-page proposal into the one visual, evidence-backed page that actually closes. Built on Copilot, Foundry, and Power BI.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

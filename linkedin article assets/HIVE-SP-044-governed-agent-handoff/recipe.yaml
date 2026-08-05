@@ -1,0 +1,17 @@
+id: governed-agent-handoff
+title: "Your Agents Do Great Work and Hand It to Nobody."
+line: it-consulting
+article: v42
+hive: HIVE-SP-044
+version: 1.0.0
+verified: 2026-08-04
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - skill
+  - prompt
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

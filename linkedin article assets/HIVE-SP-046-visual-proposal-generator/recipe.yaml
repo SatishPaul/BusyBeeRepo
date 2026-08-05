@@ -1,0 +1,17 @@
+id: visual-proposal-generator
+title: "Your Proposal Is 40 Pages. The Decision Was Made on One Slide."
+line: consulting
+article: v44
+hive: HIVE-SP-046
+version: 1.0.0
+verified: 2026-08-05
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

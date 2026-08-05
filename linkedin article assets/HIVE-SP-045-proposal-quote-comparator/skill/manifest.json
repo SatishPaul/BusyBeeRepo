@@ -1,0 +1,9 @@
+{
+  "name": "proposal-quote-comparator",
+  "displayName": "You Advise on Vendors You Never Actually Compared.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: an agent that gathers and normalizes proposals and quotes from every provider and ranks them against firm criteria. Built on Copilot Studio, Foundry, Dataverse, and Power BI.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

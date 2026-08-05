@@ -1,0 +1,9 @@
+{
+  "name": "governed-agent-handoff",
+  "displayName": "Your Agents Do Great Work and Hand It to Nobody.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: a governed multi-agent handoff where each stage signals completion and the next picks up, so agent work never dead-ends. Built on Foundry, Copilot Studio, and Dataverse.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

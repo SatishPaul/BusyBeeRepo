@@ -11,6 +11,10 @@ Reusable, governed assets that ship with each "Built in the Hive" LinkedIn artic
 | Stochastic AI Governance Rail | HIVE-SP-061 | [HIVE-SP-061-stochastic-ai-governance](./HIVE-SP-061-stochastic-ai-governance) |
 | Context Engineering Platform (Autocomplete) | HIVE-SP-062 | [HIVE-SP-062-autocomplete-not-magic](./HIVE-SP-062-autocomplete-not-magic) |
 | AI Shared Responsibility Guardrails | HIVE-SP-063 | [HIVE-SP-063-ai-shared-responsibility](./HIVE-SP-063-ai-shared-responsibility) |
+| Phased Transformation Roadmap | HIVE-SP-043 | [HIVE-SP-043-phased-transformation-roadmap](./HIVE-SP-043-phased-transformation-roadmap) |
+| Governed Agent Handoff | HIVE-SP-044 | [HIVE-SP-044-governed-agent-handoff](./HIVE-SP-044-governed-agent-handoff) |
+| Proposal & Quote Comparator | HIVE-SP-045 | [HIVE-SP-045-proposal-quote-comparator](./HIVE-SP-045-proposal-quote-comparator) |
+| Visual Proposal Generator | HIVE-SP-046 | [HIVE-SP-046-visual-proposal-generator](./HIVE-SP-046-visual-proposal-generator) |
 
 ## What is in each folder
 
