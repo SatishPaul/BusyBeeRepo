@@ -1,0 +1,17 @@
+id: voice-to-workpaper
+title: "The Best Audit Insight Dies in the Hallway Between the Client and Your Desk"
+line: audit
+article: v40
+hive: HIVE-SP-042
+version: 1.0.0
+verified: 2026-08-04
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

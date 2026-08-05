@@ -1,0 +1,9 @@
+{
+  "name": "voice-to-workpaper",
+  "displayName": "The Best Audit Insight Dies in the Hallway Between the Client and Your Desk",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: on-site voice capture becomes structured, governed workpaper tasks by morning. Built on Copilot, Dataverse, and Purview.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}

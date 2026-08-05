@@ -1,0 +1,9 @@
+{
+  "name": "client-call-commitment-tracker",
+  "displayName": "Every Client Call Has Three Action Items You Will Forget by Friday",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: an agent that turns client-call notes into tracked commitments and surfaces recurring client themes and risks over months. Governed on Copilot, Power Automate, Dataverse, and Power BI.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}
