@@ -1,0 +1,17 @@
+id: scale-past-pilot-fatigue
+title: "Firms Are Tired of AI Pilot Fatigue. The Fix Is 7 Moves."
+line: advisory
+article: v63
+hive: HIVE-SP-065
+version: 1.0.0
+verified: 2026-08-06
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

@@ -1,0 +1,9 @@
+{
+  "name": "scale-past-pilot-fatigue",
+  "displayName": "Firms Are Tired of AI Pilot Fatigue. The Fix Is 7 Moves.",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: firms launch a swarm of AI pilots, none scale, and teams quietly slide back to the manual way. A consulting leader named this pattern AI pilot fatigue in a public interview and shared a seven-move reset to beat it. This shows professional-services teams how to run that reset, name the outcome first, prove the data, assign sign-off, scope to one workflow, and change the tool and the process together, so one workflow reaches production instead of ten stalling. Six of the seven moves are about people, not technology. Built on Copilot, Copilot Studio, Power BI, Dataverse, and Purview.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}
