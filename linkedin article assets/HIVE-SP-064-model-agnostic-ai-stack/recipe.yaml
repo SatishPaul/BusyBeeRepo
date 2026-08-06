@@ -1,0 +1,17 @@
+id: model-agnostic-ai-stack
+title: "You're Betting the Firm on One AI Model. Don't."
+line: it-consulting
+article: v62
+hive: HIVE-SP-064
+version: 1.0.0
+verified: 2026-08-06
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

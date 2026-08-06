@@ -28,6 +28,7 @@ Reusable, governed assets that ship with each "Built in the Hive" LinkedIn artic
 | Governed Batch Deliverable Generator | HIVE-SP-057 | [HIVE-SP-057-batch-deliverable-generator](./HIVE-SP-057-batch-deliverable-generator) |
 | Multimodal Capture to Record | HIVE-SP-058 | [HIVE-SP-058-multimodal-capture-to-record](./HIVE-SP-058-multimodal-capture-to-record) |
 | Recurring Filing Automation | HIVE-SP-059 | [HIVE-SP-059-recurring-filing-automation](./HIVE-SP-059-recurring-filing-automation) |
+| Model-Agnostic AI Stack | HIVE-SP-064 | [HIVE-SP-064-model-agnostic-ai-stack](./HIVE-SP-064-model-agnostic-ai-stack) |
 
 ## What is in each folder
 
