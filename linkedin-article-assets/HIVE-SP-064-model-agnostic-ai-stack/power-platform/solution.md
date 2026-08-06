@@ -3,7 +3,7 @@
 Paste this into GitHub Copilot as the implementation brief. Build a Microsoft Power Platform, Azure AI, and Dataverse reference app that puts a gateway and router in front of many models, open and closed, with grounding, observability, and security, so model choice is a swappable config.
 
 ## Get the assets
-Downloadable recipe (prompt, Cowork skill, and this solution spec) on GitHub: **github.com/SatishPaul/BusyBeeRepo** under `linkedin article assets/HIVE-SP-064-model-agnostic-ai-stack/`. Licensed Apache-2.0.
+Downloadable recipe (prompt, Cowork skill, and this solution spec) on GitHub: **github.com/SatishPaul/BusyBeeRepo** under `linkedin-article-assets/HIVE-SP-064-model-agnostic-ai-stack/`. Licensed Apache-2.0.
 
 An AI-strategy playbook, not investment advice.
 

@@ -1,6 +1,6 @@
 {
   "name": "model-agnostic-ai-stack",
-  "displayName": "You're Betting the Firm on One AI Model. Don't.",
+  "displayName": "Which AI Model Should You Bet On? The Antifragile One.",
   "version": "1.0.0",
   "description": "A Built-in-the-Hive playbook: the open-weight versus closed-weight model debate has three possible endings, closed wins, open wins, or a hybrid, and nobody can predict which. This shows professional-services teams how to stop betting on one model and build a governed, model-agnostic stack, gateway, routing, grounding, observability, and security, that adopts whatever wins and runs across cloud, on-prem, and edge. Built on Copilot Studio, Azure AI Foundry, Azure AI Search, Dataverse, and Purview. Generalized from an industry research note; an AI-strategy playbook, not investment advice.",
   "mode": "read-only",
