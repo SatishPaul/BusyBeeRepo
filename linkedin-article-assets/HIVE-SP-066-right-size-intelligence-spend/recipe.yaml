@@ -1,0 +1,17 @@
+id: right-size-intelligence-spend
+title: "Stop Buying Genius for Junior Work"
+line: it-consulting
+article: v64
+hive: HIVE-SP-066
+version: 1.0.0
+verified: 2026-08-20
+surface: copilot-cowork
+plugins: []
+scope: environment
+mode: read-only
+assets:
+  - prompt
+  - skill
+  - power-platform
+cost_tier: medium
+license: Apache-2.0

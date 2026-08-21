@@ -1,0 +1,9 @@
+{
+  "name": "right-size-intelligence-spend",
+  "displayName": "Stop Buying Genius for Junior Work",
+  "version": "1.0.0",
+  "description": "A Built-in-the-Hive playbook: frontier models are astonishing, but most enterprise work is not a discovery problem, it is a context-and-execution problem. Every workload has an intelligence threshold, and past it more intelligence adds cost, not value. This shows professional-services teams how to right-size their AI spend, route each unit of work to the cheapest system that still gets it right, reserve frontier models for genuine discovery, and drive intelligence consumed per successful outcome toward zero. Built on Azure AI Foundry model routing, Copilot Studio, Dataverse, Power BI, and Purview. Figures are illustrative or drawn from public industry data.",
+  "mode": "read-only",
+  "entry": "instructions.md",
+  "license": "Apache-2.0"
+}
