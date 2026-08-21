@@ -1,8 +1,8 @@
 {
   "name": "right-size-intelligence-spend",
-  "displayName": "Stop Buying Genius for Junior Work",
+  "displayName": "Frontier AI Vendors and You Want Opposite Things",
   "version": "1.0.0",
-  "description": "A Built-in-the-Hive playbook: frontier models are astonishing, but most enterprise work is not a discovery problem, it is a context-and-execution problem. Every workload has an intelligence threshold, and past it more intelligence adds cost, not value. This shows professional-services teams how to right-size their AI spend, route each unit of work to the cheapest system that still gets it right, reserve frontier models for genuine discovery, and drive intelligence consumed per successful outcome toward zero. Built on Azure AI Foundry model routing, Copilot Studio, Dataverse, Power BI, and Purview. Figures are illustrative or drawn from public industry data.",
+  "description": "A Built-in-the-Hive playbook: on most professional-services work a frontier-model vendor profits when you overspend on intelligence and your firm profits when you don't, so their objectives are diametrically opposed for common use cases. Every workload has an intelligence threshold, and past it more intelligence adds cost, not value. This shows Tax, Audit, Advisory, and IT Consulting teams how to own the routing decision on Azure, the APIM GenAI gateway, the Azure AI Foundry model router, Foundry Local, Azure AI Agent Service, and Purview plus Dataverse plus Power BI, so cost per successful outcome falls. Figures are illustrative or from public industry data.",
   "mode": "read-only",
   "entry": "instructions.md",
   "license": "Apache-2.0"
