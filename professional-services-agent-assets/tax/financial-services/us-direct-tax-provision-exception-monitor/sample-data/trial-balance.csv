@@ -1,0 +1,13 @@
+line_item,category,gl_account,current_amount,prior_amount
+M-1 Meals & Entertainment,Book-Tax Difference,6120 M&E,82000,78000
+M-1 Fines & Penalties,Book-Tax Difference,6180 Penalties,12000,11000
+M-1 Tax-Exempt Interest,Book-Tax Difference,4300 Muni Interest,-46000,-44000
+Deferred: Depreciation Timing,Deferred Tax,1700 Accum Deprec,-310000,295000
+Deferred: Bad Debt Reserve,Deferred Tax,1300 Allowance,54000,50000
+Deferred: Sec 174 R&D Cap,Deferred Tax,1800 174 Asset,1240000,300000
+Deferred: Accrued Comp,Deferred Tax,2200 Accrued Comp,88000,84000
+Deferred: NOL Carryforward,Deferred Tax,1900 NOL,-420000,-405000
+Rate: Federal Statutory,Rate Recon,ETR Federal,21.0,21.0
+Rate: State Blended,Rate Recon,ETR State,9.8,5.1
+Rate: FDII Benefit,Rate Recon,ETR FDII,-1.9,-1.7
+Rate: R&D Credit,Rate Recon,ETR R&D Credit,-2.3,-2.1

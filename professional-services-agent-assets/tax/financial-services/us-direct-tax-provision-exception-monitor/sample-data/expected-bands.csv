@@ -1,0 +1,13 @@
+line_item,expected_low,expected_high
+M-1 Meals & Entertainment,-10000,15000
+M-1 Fines & Penalties,-5000,8000
+M-1 Tax-Exempt Interest,-8000,8000
+Deferred: Depreciation Timing,-60000,60000
+Deferred: Bad Debt Reserve,-20000,25000
+Deferred: Sec 174 R&D Cap,0,250000
+Deferred: Accrued Comp,-30000,30000
+Deferred: NOL Carryforward,-50000,50000
+Rate: Federal Statutory,-0.5,0.5
+Rate: State Blended,-1.5,1.5
+Rate: FDII Benefit,-1.0,1.0
+Rate: R&D Credit,-1.0,1.0
