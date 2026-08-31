@@ -1,6 +1,8 @@
-# The Problem, From First Principles
+# The Problem, Re-imagined Agent-First
 
 {{svg:v65-hero}}
+
+> **Watch the 60-second demo:** [HIVE-SP-067 working demo (MP4, captioned)](./demo/HIVE-SP-067-demo.mp4) — the imported Dataverse solution, the live run screening the full provision, the flagged exceptions, the Teams approval gate, and the ROI, all from real records in the demos environment.
 
 ## The challenge
 
@@ -14,7 +16,7 @@ The manual tie-out exists because, historically, only a human could hold the con
 
 ## Would this even be a problem if we designed it today?
 
-Here is the first-principles question. If you were building this today, with agents that can read the trial balance, recall the prior provision, and know the firm's expected bands, **would you design a four-hour human tie-out at all?**
+Here is the agent-first question. If you were building this today, with agents that can read the trial balance, recall the prior provision, and know the firm's expected bands, **would you design a four-hour human tie-out at all?**
 
 Almost certainly not. The screening step, checking every line against its expected range, is a bounded, rule-shaped task an agent does in seconds across the full population, not a sample. What genuinely needs a human is the **judgment on the exceptions**: is this $605k deferred swing a legitimate fixed-asset roll or an error? That is professional judgment, and it should stay human. But it is a tiny fraction of the lines.
 
@@ -59,7 +61,7 @@ The point of an agent-first design is that each part of the Microsoft stack does
 
 ## The controls that make it safe
 
-Progressive autonomy, not a black box. The agents screen and explain; they never file the provision. Consequential actions pause at a human approval gate. Every finding carries its source line, its confidence, and a version snapshot, so a reviewer can trust it or roll it back. Client and engagement records are isolated, agents run least-privilege, and the whole run is auditable end to end.
+Progressive autonomy, not a black box. The agents screen and explain; they never file the provision. Consequential actions pause at a human approval gate delivered as a Microsoft Teams Adaptive Card, so the reviewer approves or rejects from their inbox. Every finding carries its source line, its confidence, and a version snapshot, so a reviewer can trust it or roll it back. Client and engagement records are isolated, agents run least-privilege, and the whole run is auditable end to end. Every approved decision and agent inference is captured in Microsoft IQ as reusable memory, so recurring exceptions auto-resolve on the next run and the human load falls over time.
 
 
 # Architecture
