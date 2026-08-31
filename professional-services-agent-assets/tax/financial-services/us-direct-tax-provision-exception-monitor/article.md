@@ -2,7 +2,7 @@
 
 {{svg:v65-hero}}
 
-> **Watch the 60-second demo:** [HIVE-SP-067 working demo (MP4, captioned)](./demo/HIVE-SP-067-demo.mp4) — the imported Dataverse solution, the live run screening the full provision, the flagged exceptions, the Teams approval gate, and the ROI, all from real records in the demos environment.
+> **Watch the 90-second demo:** [HIVE-SP-067 working demo (MP4, captioned)](./demo/HIVE-SP-067-demo.mp4) - a live screen recording in the demos environment: the model-driven app (the provision run, the 12 screened line items, the three flagged exceptions, the approval record, and the ROI), the Copilot Studio agent answering "what changed and why" from the real run, and Copilot Cowork assembling the provision inputs.
 
 ## The challenge
 
