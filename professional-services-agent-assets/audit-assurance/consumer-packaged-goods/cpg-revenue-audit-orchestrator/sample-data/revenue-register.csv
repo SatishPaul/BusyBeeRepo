@@ -1,0 +1,7 @@
+invoice_no,category,customer,gross_amount,net_amount,invoice_date,ship_date,control_transfer,promo_accrual,return_reserve
+INV-4471,Standard Sale,Beacon Distributors,1800000,1800000,2026-06-29,2026-07-03,In transit,0,0
+INV-4390,Trade Promotion,Summit Grocers,2000000,1820000,2026-06-18,2026-06-19,Delivered,180000,0
+RET-2205,Return,Trailhead Club,12500000,12190000,2026-06-15,2026-06-16,Delivered,0,310000
+INV-5001,Standard Sale,Trailhead Club,127919,127919,2026-06-04,2026-06-04,Delivered,0,0
+INV-5006,Trade Promotion,Summit Grocers,167514,149087,2026-06-09,2026-06-09,Delivered,18427,0
+INV-5010,Return,Trailhead Club,199190,199190,2026-06-13,2026-06-13,Delivered,0,11951

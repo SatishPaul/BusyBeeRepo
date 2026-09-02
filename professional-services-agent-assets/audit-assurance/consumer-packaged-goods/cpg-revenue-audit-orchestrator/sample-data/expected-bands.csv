@@ -1,0 +1,4 @@
+check,expected_low,expected_high,rule
+Cutoff / Control Transfer,-50000,50000,revenue recognized on or before delivery date
+Trade-Spend Accrual,-60000,60000,accrual within expected variable consideration
+Returns Reserve,-80000,80000,reserve within historical return-rate range

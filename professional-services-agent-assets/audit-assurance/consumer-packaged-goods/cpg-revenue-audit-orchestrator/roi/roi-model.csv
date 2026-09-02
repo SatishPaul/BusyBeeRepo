@@ -1,0 +1,6 @@
+measure,before,after,unit
+Human minutes per revenue screen,300,35,minutes
+Handoffs between people,7,0,count
+Transactions reviewed by a human,40,3,count
+Population coverage,2,100,percent
+Compute cost per run,,3.10,usd
