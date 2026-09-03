@@ -1,0 +1,7 @@
+conf_no,type,confirming_party,account_ref,recorded_amount,sent_date,due_date,returned_date,confirmed_amount,signed,method,match_status
+BC-1041,Bank,Meridian Bank,ACCT-8842,2100000,2026-08-01,2026-08-22,2026-08-14,2400000,Yes,Positive,Discrepancy
+AR-2207,AR,Cedar Foods,CUST-3110,1800000,2026-08-01,2026-08-22,,0,No,Positive,Non-Response
+DC-3312,Debt,Harborline Capital,LOAN-556,5000000,2026-08-01,2026-08-22,2026-08-19,5000000,No,Positive,Evidence Gap
+AR-5002,AR,Cedar Foods,CUST-5002,216234,2026-08-01,2026-08-22,2026-08-12,216134,Yes,Positive,Matched
+BC-5005,Bank,Meridian Bank,ACCT-5005,240585,2026-08-01,2026-08-22,2026-08-11,239585,Yes,Positive,Matched
+DC-5004,Debt,Harborline Capital,LOAN-5004,232468,2026-08-01,2026-08-22,2026-08-13,233768,Yes,Positive,Matched

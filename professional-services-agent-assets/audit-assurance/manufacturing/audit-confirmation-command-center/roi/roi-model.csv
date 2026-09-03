@@ -1,0 +1,6 @@
+measure,before,after,unit
+Human minutes per confirmation cycle,240,30,minutes
+Handoffs between people,6,0,count
+Confirmations reviewed by a human,40,3,count
+Population coverage,2,100,percent
+Compute cost per run,,2.60,usd

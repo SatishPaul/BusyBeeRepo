@@ -1,0 +1,4 @@
+check,rule
+Cash / Bank discrepancy,confirmed balance must match recorded balance within tolerance
+AR non-response,a positive confirmation with no reply past the due window is a non-response exception
+Evidence gap,a returned confirmation must be signed and carry complete terms (rate\, amount\, signature)
