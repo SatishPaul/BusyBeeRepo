@@ -1,0 +1,8 @@
+section_ref,title,section_type,caption,recorded_amount,source_amount,delta,tie_status,flag_status
+S-01,Cash and due from banks lead,Lead Sheet,Cash,88400000,88400000,0,Tied,Clean
+S-02,Cash tie-out to confirmations,Tie-Out,Cash,88400000,88400000,0,Tied,Clean
+S-03,Loans held for investment lead,Lead Sheet,Loans,612500000,612500000,0,Tied,Clean
+S-04,Loan portfolio tie-out to loan tape,Tie-Out,Loans,612500000,612500000,0,Tied,Clean
+S-07,Allowance for loan and lease losses,Testing,Allowance for Loan Losses,42000000,42000000,0,Review,Flagged
+S-11,Available-for-sale investments,Tie-Out,Investments,18600000,17200000,1400000,Does Not Tie,Flagged
+S-15,Related-party disclosures,Disclosure,Related-Party Disclosures,0,0,0,Missing,Flagged

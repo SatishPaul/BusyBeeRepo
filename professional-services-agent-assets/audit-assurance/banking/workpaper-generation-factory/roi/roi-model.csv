@@ -1,0 +1,6 @@
+measure,before,after,unit
+Human minutes per workpaper,180,25,minutes
+Handoffs between people,5,0,count
+Sections reviewed by a human,18,3,count
+Source assembly,manual,cowork,mode
+Compute cost per run,,2.40,usd
