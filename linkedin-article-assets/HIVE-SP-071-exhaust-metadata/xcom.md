@@ -1,4 +1,4 @@
-# WhatsApp Cannot Read Your Messages. It Still Knows Who You Are.
+# I Never Read Your Files. In 20 Questions I Know Your Whole Playbook.
 
 {{svg:v69-hero}}
 
